@@ -93,3 +93,4 @@
 35、打开最近打开的文件：ctrl + r
 
 36、打开新的命令窗：ctrl + shift + c
+![image](https://user-images.githubusercontent.com/96447102/194729880-52a73f65-7aff-412b-9c75-033d599ed52a.png)
