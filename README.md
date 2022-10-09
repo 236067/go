@@ -114,7 +114,9 @@
 ![image](https://user-images.githubusercontent.com/96447102/194752481-3f8f16fc-6983-46ff-bd08-6ad4faf51015.png)
 ![image](https://user-images.githubusercontent.com/96447102/194753212-44befa8a-b26e-4a52-b5cc-aaff3a76b6c6.png)
 ![image](https://user-images.githubusercontent.com/96447102/194753460-9e85549c-55a1-4f5c-a7dc-c19fdbadbccc.png)
-
+  
+  
+int默认0，String默认空串
 
 
 
